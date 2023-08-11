@@ -94,6 +94,8 @@ export function Header() {
         <nav className="relative z-50 flex justify-between">
           <div className="flex items-center md:gap-x-12">
             <Link href="#" aria-label="Home">
+              <b>GeekHaven
+              </b>
             </Link>
             <div className="hidden md:flex md:gap-x-6">
               <NavLink href="#features">Products</NavLink>
